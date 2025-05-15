@@ -1,1 +1,1 @@
-Define all TypeScript interfaces related to the project. Start by creating placeholder interfaces for CardProps and ButtonProps.
+Set up constants to store any reusable data or strings such as API URLs, configuration settings, or UI text
